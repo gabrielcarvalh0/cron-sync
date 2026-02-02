@@ -1,2 +1,6 @@
 gcp-key.json
 .env
+.env/
+env
+
+node_modules/
